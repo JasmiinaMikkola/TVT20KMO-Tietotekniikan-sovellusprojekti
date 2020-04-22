@@ -1,6 +1,7 @@
 # Tietotekniikan sovellusprojekti
 
 Projekti WALL•I
+
 Mikkola ja Simula
 TVT20KMO
 
